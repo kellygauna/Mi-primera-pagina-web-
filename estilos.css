@@ -1,0 +1,49 @@
+body{
+    background-color:#eaead0;
+    color:#c8812b;
+    font-family: 'Poppins', sans-serif;; 
+    /*agregar fuentes aparte de las que te dan, agregra lindk en head de html y otro link en css*/
+
+}
+/* asi se pone un comentario*/
+/* agregar punto y coma para pasar de cada parrafo*/
+
+h1, p{ 
+    color: #c8542b; 
+    font-family: 'Bebas Neue', sans-serif;
+}
+h2{
+    color:#c8542b;
+    font-family: 'Playfair Display SC', serif;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.img1{
+    width: 400px;
+    height: 300px;
+    border-style:ridge;
+    border-width:10px;
+    border-color: brown;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-right: 10px;
+    padding: 20px;
+}
+.img2{ 
+    width: 400px;
+    height: 300px;
+    border-style:ridge;
+    border-width:10px;
+    border-color: brown;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 40px;
+    padding: 20px;
+}
+small, a{ 
+    background-color: white;
+    color: black;
+    font-family: 'Bebas Neue', sans-serif;
+}
